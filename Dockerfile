@@ -6,7 +6,7 @@ RUN apk add --no-cache \
             gcc \
             libffi-dev \
             musl-dev \
-            openssl-dev
+            openssl-dev \
             build-base \
             linux-headers
             
